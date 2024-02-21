@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ra-shida
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning frontend software development 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a gig
 - 📫 How to reach me @braimahndiorance@gmail.com
 - 😄 Pronouns: she 
 - ⚡ Fun fact: i am explorer
